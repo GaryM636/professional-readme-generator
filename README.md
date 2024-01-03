@@ -27,6 +27,8 @@ To use the CLI application, follow these steps:
 3. Answer the prompts with the required information.
 4. The application will generate a professional README file.
 
+if you would like to see a video of the app in use please visit: https://drive.google.com/file/d/1fFJ-gac4dRX42k8wGiKfq60Risw_jwHi/view
+
 ## Questions
 
 👋 Hi, I'm Gary, a student passionate about web development.
