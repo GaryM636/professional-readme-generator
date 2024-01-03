@@ -32,6 +32,7 @@ function generateMarkdown(data) {
 ${licenseBadge}
 
 ## Description
+
 ${data.description}
 
 ## Table of Contents
@@ -43,20 +44,24 @@ ${data.description}
 - [Questions](#questions)
 
 ## Installation
-${data.installation}
+
+\`${data.installation}\`
 
 ## Usage
 ${data.usage}
 
 ## License
+
 ${licenseSection}
 ${licenseLink}
 
 ## Contributing
+
 ${data.contributing}
 
 ## Tests
-${data.tests}
+
+\`${data.tests}\`
 
 ## Questions
 For any questions, please contact me:

@@ -17,6 +17,7 @@ const questions = [
     type: 'input',
     name: 'installation',
     message: 'Enter installation instructions:',
+    default: 'npm i',
   },
   {
     type: 'input',
@@ -38,7 +39,7 @@ const questions = [
     type: 'input',
     name: 'tests',
     message: 'what is the script to run tests:',
-    default: '`npm run test`',
+    default: 'npm test',
   },
   {
     type: 'input',
